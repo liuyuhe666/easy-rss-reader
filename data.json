@@ -1,0 +1,16 @@
+{
+  "values": [
+    "https://www.zhihu.com/rss",
+    "https://tech.meituan.com/feed/",
+    "http://www.ruanyifeng.com/blog/atom.xml",
+    "https://feeds.appinn.com/appinns/",
+    "https://v2ex.com/feed/tab/tech.xml",
+    "http://www.sciencenet.cn/xml/blog.aspx?di=30",
+    "https://www.douban.com/feed/review/book",
+    "https://www.douban.com/feed/review/movie",
+    "https://www.geekpark.net/rss",
+    "https://hostloc.com/forum.php?mod=rss&fid=45&auth=389ec3vtQanmEuRoghE%2FpZPWnYCPmvwWgSa7RsfjbQ%2BJpA%2F6y6eHAx%2FKqtmPOg",
+    "https://rsshub.rssforever.com/bilibili/ranking/129/7/1"
+  ],
+  "refresh": 6
+}
