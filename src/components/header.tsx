@@ -8,21 +8,21 @@ export default function Header() {
     <header>
       <Flex justify="between" mx="4" direction={{ initial: 'column', md: 'row' }} gap="2">
         <Flex gap="2" align="center" justify="center">
-          <Avatar src="/favicon.ico" fallback="R" />
+          <Avatar src="/favicon.ico" fallback="R" size="2" />
           <Heading>RSS Reader</Heading>
         </Flex>
         <Flex gap="6" align="center" justify="center">
           <Link href="/">
-            <Button variant="ghost" color="gray" size="4" radius="full">Home</Button>
+            <Button variant="ghost" color="gray" size="4" radius="full">主页</Button>
           </Link>
           <Link href={siteInfo.documentationLink} target="_blank">
             <Button variant="ghost" color="gray" size="4" radius="full">
-              Documentation
+              使用说明
             </Button>
           </Link>
           <Link href={siteInfo.faqLink} target="_blank">
             <Button variant="ghost" color="gray" size="4" radius="full">
-              FAQ
+              常见问题
             </Button>
           </Link>
         </Flex>

@@ -3,19 +3,18 @@
 import { useEffect, useState } from 'react'
 import { Grid } from '@radix-ui/themes'
 import CustomCard from '@/components/custom-card'
-
-interface Data {
-  values: string[]
-  refresh: number
-}
+import type { Data } from '@/lib/data'
+import { getData } from '@/lib/data'
 
 export default function Home() {
   const [data, setData] = useState<Data>()
 
   useEffect(() => {
-    fetch('/api/data')
-      .then(response => response.json())
-      .then(jsonData => setData(jsonData))
+    const fetchData = async () => {
+      const result = await getData()
+      setData(result)
+    }
+    fetchData()
   }, [])
 
   return (

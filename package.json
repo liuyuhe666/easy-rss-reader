@@ -16,6 +16,7 @@
     "next-themes": "^0.3.0",
     "react": "^18",
     "react-dom": "^18",
+    "react-toastify": "^10.0.5",
     "rss-parser": "^3.13.0"
   },
   "devDependencies": {

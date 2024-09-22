@@ -3,6 +3,7 @@ import localFont from 'next/font/local'
 import '@radix-ui/themes/styles.css'
 import { Theme } from '@radix-ui/themes'
 import { ThemeProvider } from 'next-themes'
+import { ToastContainer } from 'react-toastify'
 import { siteInfo } from '@/constants'
 import Header from '@/components/header'
 import Footer from '@/components/footer'
@@ -36,6 +37,7 @@ export default function RootLayout({
             <Header />
             {children}
             <Footer />
+            <ToastContainer />
           </Theme>
         </ThemeProvider>
       </body>
