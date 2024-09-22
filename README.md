@@ -1,4 +1,6 @@
-# 🎯 Easy RSS Reader
+# 🎯Easy RSS Reader
+
+> A minimalist RSS online browsing tool.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
@@ -41,6 +43,7 @@ The following is an example.
     "https://www.douban.com/feed/review/movie",
     "https://www.geekpark.net/rss",
     "https://hostloc.com/forum.php?mod=rss&fid=45&auth=389ec3vtQanmEuRoghE%2FpZPWnYCPmvwWgSa7RsfjbQ%2BJpA%2F6y6eHAx%2FKqtmPOg",
+    "https://rsshub.rssforever.com/bilibili/precious",
     "https://rsshub.rssforever.com/bilibili/ranking/129/7/1"
   ],
   "refresh": 6
@@ -64,5 +67,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/liuyuhe666/easy-rss-reader)
+
 ## Reference
 - [https://github.com/srcrs/rss-reader](https://github.com/srcrs/rss-reader)
+- [https://docs.rsshub.app](https://docs.rsshub.app)
