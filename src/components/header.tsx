@@ -6,24 +6,20 @@ import { siteInfo } from '@/constants'
 export default function Header() {
   return (
     <header>
-      <Flex justify="between" mx="4" direction={{ initial: 'column', md: 'row' }} gap="2">
+      <Flex justify="between" mx="4" direction={{ initial: 'column', md: 'row' }} gap="2" height={{ md: '6vh' }}>
         <Flex gap="2" align="center" justify="center">
           <Avatar src="/favicon.ico" fallback="R" size="2" />
           <Heading>RSS Reader</Heading>
         </Flex>
         <Flex gap="6" align="center" justify="center">
-          <Link href="/">
-            <Button variant="ghost" color="gray" size="4" radius="full">主页</Button>
+          <Link href="/" underline="hover" color="gray" size="4">
+            主页
           </Link>
-          <Link href={siteInfo.documentationLink} target="_blank">
-            <Button variant="ghost" color="gray" size="4" radius="full">
-              使用说明
-            </Button>
+          <Link href={siteInfo.documentationLink} target="_blank" underline="hover" color="gray" size="4">
+            使用说明
           </Link>
-          <Link href={siteInfo.faqLink} target="_blank">
-            <Button variant="ghost" color="gray" size="4" radius="full">
-              常见问题
-            </Button>
+          <Link href={siteInfo.faqLink} target="_blank" underline="hover" color="gray" size="4">
+            常见问题
           </Link>
         </Flex>
         <Flex gap="2" align="center" justify="center">
