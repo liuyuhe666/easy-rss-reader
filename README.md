@@ -3,9 +3,7 @@
 
 ![GitHub watchers](https://img.shields.io/github/watchers/liuyuhe666/easy-rss-reader?style=social) ![GitHub stars](https://img.shields.io/github/stars/liuyuhe666/easy-rss-reader?style=social) ![GitHub forks](https://img.shields.io/github/forks/liuyuhe666/easy-rss-reader?style=social)
 
-<br/>
-
-![GitHub repo size](https://img.shields.io/github/repo-size/liuyuhe666/easy-rss-reader?style=flat-square) ![GitHub package.json version](https://img.shields.io/github/package-json/v/liuyuhe666/easy-rss-reader?style=flat-square) ![GitHub](https://img.shields.io/github/license/liuyuhe666/easy-rss-reader?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues/liuyuhe666/easy-rss-reader?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed/liuyuhe666/easy-rss-reader) ![GitHub last commit](https://img.shields.io/github/last-commit/liuyuhe666/easy-rss-reader?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/liuyuhe666/easy-rss-reader?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/liuyuhe666/easy-rss-reader?style=flat-square) ![GitHub package.json version](https://img.shields.io/github/package-json/v/liuyuhe666/easy-rss-reader?style=flat-square) ![GitHub](https://img.shields.io/github/license/liuyuhe666/easy-rss-reader?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues/liuyuhe666/easy-rss-reader?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed/liuyuhe666/easy-rss-reader) ![GitHub last commit](https://img.shields.io/github/last-commit/liuyuhe666/easy-rss-reader?style=flat-square) ![GitHub repo size](https://img.shields.io/github/repo-size/liuyuhe666/easy-rss-reader?style=flat-square) 
 
 </div>
 
