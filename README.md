@@ -79,3 +79,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ## Reference
 - [https://github.com/srcrs/rss-reader](https://github.com/srcrs/rss-reader)
 - [https://docs.rsshub.app](https://docs.rsshub.app)
+
+## Repobeats
+![Alt](https://repobeats.axiom.co/api/embed/ba102d843b1f9a561eb19f8420806aca0a0b8c40.svg "Repobeats analytics image")
